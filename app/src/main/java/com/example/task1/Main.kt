@@ -23,6 +23,7 @@ fun main() {
     }
 }
 
+
 fun calculate(firsNumber: Double, secondNumber: Double, operator: String?): Double {
     var res = 0.0
     when (operator) {
