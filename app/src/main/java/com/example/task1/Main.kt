@@ -1,6 +1,5 @@
 package com.example.task1
 
-
 fun main() {
     while (true) {
         println("Введите первое число:")
